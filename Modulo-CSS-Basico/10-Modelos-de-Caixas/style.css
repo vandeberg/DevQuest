@@ -1,0 +1,12 @@
+*{ /* Responsavel por afeta todos os elementos que estão na tela */
+    margin: 0;
+}
+
+p{
+    margin: 20px;
+    padding: 20px;
+
+    border: solid 20px aquamarine;
+
+    background-color: green;
+}
