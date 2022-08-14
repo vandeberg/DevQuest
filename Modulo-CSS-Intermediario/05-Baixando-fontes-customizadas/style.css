@@ -1,0 +1,10 @@
+@font-face{
+    font-family: 'Milkyroad';
+    src: url(./fonts/milkyroad.otf), 
+    url(./fonts/milkyroad.ttf);
+}
+
+h1{
+    font-family: 'Milkyroad';
+    font-weight: 100;
+}
