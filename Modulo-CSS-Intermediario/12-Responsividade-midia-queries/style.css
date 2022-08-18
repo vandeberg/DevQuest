@@ -41,3 +41,20 @@ main p {
 .image img {
     width: 100%;
 }
+
+/* Media Queries - Aula 13 */
+/* Dispositivos extra pequenos (celulares em posição porta retrata, menores do que 576pc)  */
+
+@media (max-width: 576px) {
+    .cabecalho {
+        text-align: center;
+    }
+
+    .cabecalho nav {
+        float: none;
+    }
+
+    .cabecalho nav li {
+        display: block;
+    }
+}
