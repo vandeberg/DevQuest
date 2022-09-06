@@ -1,0 +1,41 @@
+/* seletor::pausedo-elemento {
+    propriedade: valor;
+} */
+
+/* p::first-letter {
+    color: coral;
+} */
+
+/* #paragrafo::first-line{
+    color: orange;
+} */
+
+.first-letter::first-letter {
+    color: blue;
+}
+
+.first-line::first-line {
+    color: orange;
+}
+
+.first-line::first-letter{
+    color: brown;
+}
+
+li::marker{
+    color: red;
+    font-size: 23px;
+}
+
+.before::before{
+    content: " ";
+    background: url(logo.jpg) center center no-repeat;
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+}
+
+.after::after{
+    content: url(logo.jpg);
+    
+}
