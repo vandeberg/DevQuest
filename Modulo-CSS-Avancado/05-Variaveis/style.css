@@ -9,12 +9,12 @@ h2 {
 }
 
 h3 {
-    color: var(--cor-padrao, blue);
+    color: var(--cor-padrao, orange);
     font-size: var(--tamanha-fonte-padrao, 50px);
 }
 
 p {
-    color: var(--cor-padrao, blue);
+    color: var(--cor-padrao, orange);
     font-size: var(--tamanha-fonte-padrao, 50px);
 }
 
