@@ -8,7 +8,7 @@ bady {
 }
 
 .header {
-    background-color: red;
+  
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -16,7 +16,6 @@ bady {
 }
 
 .logo {
-    background-color: orange;
     display: flex;
     align-items: center;
 }
@@ -25,13 +24,26 @@ bady {
     font-size: 2rem;
     margin-left: 5px;
 }
-.menu{
-    background-color: white;
+
+.menu {
     display: flex;
     align-items: center;
 }
-.menu li a{
-    padding: 10px 5px{
-        
-    }
+
+.menu li a {
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+    margin-left: 1.5rem;
+}
+
+.menu li a:hover {
+    background-color: #5BC241;
+    color: white;
+}
+
+.menu li a.btn{
+    background-color: #5BC241;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    color: white;
 }
