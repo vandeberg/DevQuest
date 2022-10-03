@@ -2,8 +2,11 @@ html {
     font-family: 'Public Sans', sans-serif;
 }
 
-.pinturas{
+.pinturas {
     display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .pinturas .pintura {
