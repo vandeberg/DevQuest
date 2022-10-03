@@ -2,6 +2,10 @@ html {
     font-family: 'Public Sans', sans-serif;
 }
 
+.pinturas{
+    display: flex;
+}
+
 .pinturas .pintura {
     width: 335px;
     height: 431px;
