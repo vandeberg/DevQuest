@@ -10,33 +10,39 @@ margin: 30px 15px; */
 /* forma coloca o mesmo valor para todas
 margin: 30px */
 
-/* Panddig responsavel por inserir espaço entre o conteudo e a borda do mesmo */ 
+/* Panddig responsavel por inserir espaço entre o conteudo e a borda do mesmo */
 
-h1{
+h1 {
     margin: 30px;
-    background-color: aquamarine; /*Sem padding para da espaço */
+    background-color: aquamarine;
+    /*Sem padding para da espaço */
 
-    border-style: solid; /* Inserindo Bordas com outras cores*/ 
-   border-width: 20px;
-   
+    border-style: solid;
+    /* Inserindo Bordas com outras cores*/
+    border-width: 20px;
+
     /* border-top-color: blue;
     border-bottom-color: black;
     border-left-color: burlywood;
     border-right-color: orangered; */
 
-    border-color: blue black burlywood orangered; /* Sempre utiliza para melhor manutenção no codigo */ 
+    border-color: blue black burlywood orangered;
+    /* Sempre utiliza para melhor manutenção no codigo */
 
 
 }
-p{
-    margin: 30px 15px; 
+
+p {
+    margin: 30px 15px;
     padding: 20px;
-    background-color: aquamarine; /* Com padding para da espaço */
+    background-color: aquamarine;
+    /* Com padding para da espaço */
 
     /* Adicionado borda 
     border-style: solid; 
     border-width: 20px;
     border-color: orange; */
 
-    border: 20px solid orange; /*Sempre utiliza para melhor manutenção no codigo */ 
+    border: 20px solid orange;
+    /*Sempre utiliza para melhor manutenção no codigo */
 }
