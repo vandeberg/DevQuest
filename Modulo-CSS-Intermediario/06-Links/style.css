@@ -1,18 +1,18 @@
-a{
+a {
     cursor: progress;
     margin: 20px;
     padding: 10px;
 }
 
-a:visited{
+a:visited {
     color: orangered;
 }
 
-a:active{
+a:active {
     color: blueviolet;
 }
 
-a:hover{
+a:hover {
     background-color: blue;
     color: white;
 }
