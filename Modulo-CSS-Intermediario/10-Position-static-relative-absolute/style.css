@@ -21,19 +21,22 @@
     left: 100px;
     background-color: coral;
 }
-.elemento-absoluto{
-    position: absolute; 
+
+.elemento-absoluto {
+    position: absolute;
     left: 180px;
     background-color: darkblue;
     top: 0;
 }
-.elemento-relativo-com-filho{
+
+.elemento-relativo-com-filho {
     position: relative;
     width: 350px;
     height: 350px;
     background-color: orchid;
 }
-.elemento-absoluto-com-pai{
+
+.elemento-absoluto-com-pai {
     position: absolute;
     width: 150px;
     height: 150px;
