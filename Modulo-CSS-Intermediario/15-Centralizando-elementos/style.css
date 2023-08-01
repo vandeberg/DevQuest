@@ -39,7 +39,7 @@ body {
     /*   transform: translateY(-50%);    Muito Codigo 
     transform: translateX(-50%); */
     transform: translate(-50%, -50%);
-    /*  Correto para está seno utilizado   */
+    /*  Correto para está sendo utilizado   */
 }
 
 .alinhado-margin-auto {
