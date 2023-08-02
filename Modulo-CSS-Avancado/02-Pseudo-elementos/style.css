@@ -18,16 +18,16 @@
     color: orange;
 }
 
-.first-line::first-letter{
+.first-line::first-letter {
     color: brown;
 }
 
-li::marker{
+li::marker {
     color: red;
     font-size: 23px;
 }
 
-.before::before{
+.before::before {
     content: " ";
     background: url(logo.jpg) center center no-repeat;
     display: inline-block;
@@ -35,7 +35,7 @@ li::marker{
     height: 85px;
 }
 
-.after::after{
+.after::after {
     content: url(logo.jpg);
-    
+
 }
