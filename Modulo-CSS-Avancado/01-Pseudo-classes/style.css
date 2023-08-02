@@ -18,10 +18,11 @@
     color: red;
 } */
 
-li:nth-last-child(1){
+li:nth-last-child(1) {
     color: blue;
 
 }
-p:only-child{
+
+p:only-child {
     color: orange;
 }
