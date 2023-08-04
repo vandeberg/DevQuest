@@ -1,6 +1,7 @@
 img {
     max-width: 100px;
 }
+
 html {
     font-size: 62.5%;
 }
@@ -11,7 +12,7 @@ bady {
 }
 
 .header {
-  
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -45,7 +46,7 @@ bady {
     color: white;
 }
 
-.menu li a.btn{
+.menu li a.btn {
     background-color: #5BC241;
     border-radius: 1rem;
     margin-left: 3rem;
