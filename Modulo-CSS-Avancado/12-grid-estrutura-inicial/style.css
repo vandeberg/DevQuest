@@ -1,0 +1,6 @@
+.container>div {
+    border: 1px solid black;
+    background-color: blueviolet;
+    color: aquamarine;
+    font-size: 20px;
+}
