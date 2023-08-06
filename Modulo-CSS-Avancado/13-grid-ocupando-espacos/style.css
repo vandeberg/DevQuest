@@ -1,0 +1,28 @@
+.verde-claro {
+    background-color: aquamarine;
+}
+
+.azul {
+    background-color: blue;
+}
+
+
+.rosa {
+    background-color: hotpink;
+}
+
+.laranja-escuro {
+    background-color: orangered;
+}
+
+.verde-forte {
+    background-color: green;
+}
+
+.marrom {
+    background-color: burlywood;
+}
+
+.container {
+    display: grid;
+}
