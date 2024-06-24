@@ -1,12 +1,14 @@
-*{ /* Responsavel por afeta todos os elementos que estão na tela */
+* {
     margin: 0;
+    /* Responsavel por afeta todos os elementos que estão na tela */
+
 }
 
-p{
+p {
     margin: 20px;
     padding: 20px;
 
     border: solid 20px aquamarine;
 
-    background-color: green;
+    background-color: rgb(35, 108, 242);
 }
