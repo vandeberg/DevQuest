@@ -1,9 +1,10 @@
-h1{
+h1 {
 
     display: inline;
 }
 
-p{
+p {
 
-    display: inline  /* Vai junta os elemtnos*/;
+    display: inline;
+    /* Vai junta os elemtnos*/
 }
