@@ -1,4 +1,4 @@
-/* Caso tenha uma pagina com varios produtos essa seria forma incorreta para utilizar pois ID e unica por pagina (Utilizando ID) */ 
+/* Caso tenha uma pagina com varios produtos essa seria forma incorreta para utilizar pois ID e unica por pagina (Utilizando ID) */
 
 /*
 #produto-01{
@@ -20,10 +20,10 @@
 */
 /* ----------- A paritr desse ponto seria utilizando CLASSES --------------- */
 
-.produto-des{
+.produto-des {
     background-color: orange;
 }
 
-.promocao{
+.promocao {
     border: solid 20px wheat;
 }
