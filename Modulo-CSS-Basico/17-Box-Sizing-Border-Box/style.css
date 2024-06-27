@@ -7,7 +7,7 @@ div {
 
 .com-border-box {
     background-color: aquamarine;
-    /* box-sizing: border-box; */ 
+    /* box-sizing: border-box; */
 }
 
 .sem-border-box {
@@ -20,7 +20,7 @@ do elemento
 
 100 + 10 + 10 + 10 + 10 = 140
 
-*/ 
+*/
 
 /* Altura + padding de cima + padding de baixo + 
 border de cima + border de baixo = largura total 
@@ -28,4 +28,4 @@ do elemento
 
 100 + 10 + 10 + 10 + 10 = 140
 
-*/ 
+*/
